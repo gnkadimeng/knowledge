@@ -1,0 +1,37 @@
+[
+    {
+        "node_1": "Discussion Paper",
+        "node_2": "Education",
+        "edge": "Discussion Papers often focus on analyzing the relationship between education and economic growth."
+    },
+    {
+        "node_1": "Discussion Paper",
+        "node_2": "Growth",
+        "edge": "Discussion Papers also explore how economic growth can be promoted through various educational policies and initiatives."
+    },
+    {
+        "node_1": "Discussion Paper",
+        "node_2": "Economic Growth",
+        "edge": "In Discussion Paper No.176, the author examines the impact of education on economic growth in a specific context."
+    },
+    {
+        "node_1": "No.",
+        "node_2": "Discussion Paper",
+        "edge": "Each Discussion Paper is assigned a unique identification number for easy reference and retrieval."
+    },
+    {
+        "node_1": "No.",
+        "node_2": "Month",
+        "edge": "The year of publication is also mentioned along with the month in which the paper was published."
+    },
+    {
+        "node_1": "labour productivity",
+        "node_2": "TFP",
+        "edge": "Output is calculated as 𝑌𝑌 = 𝐴𝐴𝐾𝐾𝛼𝛼𝐿𝐿1−𝛼𝛼𝐻𝐻𝑡𝑡, where TFP measures labour productivity."
+    },
+    {
+        "node_1": "TFP",
+        "node_2": "labour productivity",
+        "edge": "And 1−𝛼𝛼𝐻𝐻𝑡𝑡 is TFP measured in labour augmenting units."
+    }
+]
